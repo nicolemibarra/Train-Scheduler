@@ -1,0 +1,27 @@
+body{
+	background:url("http://www.disneyonwheels.com/wp-content/uploads/2013/09/DSC_1003copy.jpg");
+	background-size: cover;
+    background-attachment: fixed;
+}
+
+.jumbotron{
+	background-color: lightgray;
+	color: dodgerblue;	
+}
+
+#clock{
+	text-align: center;
+}		
+
+.panel-body{
+	background-color: lightgrey; 
+	color: navy;
+}
+
+.alert {
+	padding: 20px;
+	background-color: dodgerblue;
+	color: white;
+	margin-bottom: 15px;
+}
+		
